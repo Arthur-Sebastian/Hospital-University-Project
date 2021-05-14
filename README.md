@@ -1,5 +1,6 @@
 # HOSPITAL PROJECT
 ## (C) Arthur Sebastian Miller 2021
+### *Created as a part of 'programming 2' university course
 
 This is an object-oriented programming project done to illustrate
 the different possibilities of C++ programming language using
