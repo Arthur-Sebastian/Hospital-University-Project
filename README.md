@@ -1,5 +1,5 @@
-#HOSPITAL PROJECT
-##(C) Arthur Sebastian Miller 2021
+# HOSPITAL PROJECT
+## (C) Arthur Sebastian Miller 2021
 
 This is an object-oriented programming project done to illustrate
 the different possibilities of C++ programming language using
