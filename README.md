@@ -1,4 +1,4 @@
-# HOSPITAL PROJECT
+# UNIVERSITY PROJECT - HOSPITAL
 ## (C) Arthur Sebastian Miller 2021
 ### *Created as a part of 'programming 2' university course*
 
